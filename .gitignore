@@ -5,8 +5,8 @@ chzzk_bypass_custom.js
 /node_modules
 /.pnp
 .pnp.js
-.html
-.css
+*.html
+*.css
 
 # testing
 /coverage
